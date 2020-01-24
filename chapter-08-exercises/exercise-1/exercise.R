@@ -25,7 +25,6 @@ meals[["my_lunch"]]
 # and save them to a list called `early_meals`
 early_meals <- ["cereal", "fried rice"]
 
-
 ### Challenge ###
 
 # Create a list that has the number of items you ate for each meal
